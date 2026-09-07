@@ -58,10 +58,10 @@ Every project gets a `README.md` with a hand-drawn byte/packet diagram, a class 
 
 ## 0.1 — Environment
 
-- [ ] `pnpm init`, workspaces covering `packages/*` and `projects/*`
-- [ ] Install: `typescript`, `tsx`, `vitest`, `@types/node`
+- [x] `pnpm init`, workspaces covering `packages/*` and `projects/*`
+- [x] Install: `typescript`, `tsx`, `vitest`, `@types/node`
 - [ ] Install CLI tooling: `wireshark` / `tcpdump`, `curl`, `dig`, `nc`, `ss`, `openssl`, `autocannon`
-- [ ] `git init`, first commit
+- [x] `git init`, first commit
 
 ## 0.2 — TypeScript onboarding *(you are new to TS — budget 2 hours)*
 
